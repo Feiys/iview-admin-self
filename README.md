@@ -204,6 +204,8 @@ npm run build
 - 消息中心
 ![image](https://github.com/iview/iview-admin/raw/dev/github-gif/message.gif)
 
+如果不介意，打
+![image]https://gitee.com/lucky_chen/iview-admin/blob/master/github-gif/code.png
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
