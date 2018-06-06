@@ -205,7 +205,7 @@ npm run build
 ![image](https://github.com/iview/iview-admin/raw/dev/github-gif/message.gif)
 
 ### 💖💖 If you find this project helpful, maybe you can buy me a coffee. 💖💖
-![image](https://github.com/iview/iview-admin/raw/dev/github-gif/code.png)
+![image](https://gitee.com/lucky_chen/iview-admin/blob/master/github-gif/code.png)
 
 
 ## License
