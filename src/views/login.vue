@@ -79,6 +79,24 @@ export default {
                 }
             });
         },
+        register () {
+            let params = {
+                account: this.account,
+                password: this.password
+            }
+            this.$http.post('/api/user/register', params)
+                .then((response) => {
+                console.log(response)
+                var message = response.body.message
+                if (response.body.status === 1000) {
+                    message = this.account + ' ' + message
+                }
+                alert(message)
+                })
+                .catch((reject) => {
+                console.log(reject)
+                })
+        },
 
     }
 };
